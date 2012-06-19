@@ -1,7 +1,7 @@
 jQuery UI Dialog Titlebar Help button Plugin
 ======================
 
-Sample
+Sample Code
 ----------
 
 ``` html
@@ -13,11 +13,13 @@ Sample
 	<script type="text/javascript">
 		$(function(){
 			$('#dialog1').dialog({
+				/* jquery UI Dialog options */
 				autoOpen: false,
 				modal: true,
 				resizable: false,
 				width: 200,
 				height: 200,
+				/* dialog.helpbutton options */
 				help: 'testHelp.html'
 			});
 			$('#dialogOpen1').click(function() {
