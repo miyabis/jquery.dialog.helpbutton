@@ -43,6 +43,15 @@ Sample Code
 </html>
 ```
 
+Option
+----------
++   `help` :
+    Sets the url of the Help page.
+    Unset does not display the button.
+    
++   `helpTitle` :
+    help page window title.
+
 License
 ----------
 Copyright &copy; 2012 MiYABiS
