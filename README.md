@@ -1,6 +1,8 @@
 jQuery UI Dialog Titlebar Help button Plugin
 ======================
 
+is a plug-in to add a Help button in the title bar of the dialog.
+
 Sample Code
 ----------
 
